@@ -1,6 +1,12 @@
-# Tillvägagångssätt och tankesätt för databasens uppbyggnad.
+# Gula gruppen
+Medlemmar
+* Carl-Magnus Arvidsson **(bassidus)**
+* Jonathan Glänås **(jongla813)**
+* Nathalie Falk **(fnathalie)**
+* Pontus
+* Simon K **(SimonKva)**
 
-## Vi pratar ihop oss om hur vi vill lägga upp grunden
+## Tillvägagångssätt och tankesätt för databasens uppbyggnad.
 * Vad vill man veta om en film? 
 * Vilka tabeller kommer behövas?
 * Hur ska relationerna mellan tabellerna se ut?
