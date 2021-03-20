@@ -29,8 +29,10 @@
 * Sökfunktion
 
 ## Relationer
-* Filmer till språk (Många till många)
-* Filmer till undertexter till språk (många till många)
+* Filmer -> Språk (1:m) En film kan finnas på flera språk
+* Filmer -> Undertexter (1:m) Finns flera undertexter till samma film
+* Filmer -> Trailer (1:m) (varje film kan innehålla flera trailers, men en trailer är bara till en film)
+* Filmer -> Poster (1:m) (varje film kan innehålla flera posters, men en poster är bara till en film)
 ```
 
 Movies
