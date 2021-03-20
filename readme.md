@@ -1,5 +1,4 @@
-# Gula gruppen
-Medlemmar
+## Medlemmar i Gula gruppen
 * Carl-Magnus Arvidsson **(bassidus)**
 * Jonathan Glänås **(jongla813)**
 * Nathalie Falk **(fnathalie)**
