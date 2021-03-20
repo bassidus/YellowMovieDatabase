@@ -35,7 +35,7 @@
 * Sökfunktion
 
 ## Relationer
-* Filmer
+* #### Filmer
     * En till många **Språk**
     * En till många **Undertexter**
     * En till många **Trailers**
@@ -43,12 +43,12 @@
     * En till många **Regissörer**
     * En till en **Produktionsbolag**
     * Många till många **Karaktärer**
-* Karaktärer
+* #### Karaktärer
     * En till en **Skådespelare / Persondata**
-* Regissörer
+* #### Regissörer
     * En till en **Persondata**
-* Produktionsbolag
+* #### Produktionsbolag
     * En till en **Kontaktinfo**
-* Persondata
+* #### Persondata
     * En till en **Kontaktinfo**
 
