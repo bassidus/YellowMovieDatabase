@@ -20,16 +20,16 @@ Vi använder oss av GitHub när vi jobbar på egen hand och skärmdelning genom 
 * Skapa repository på GitHub ( https://github.com/bassidus/YellowMovieDatabase ).
 * Skapa en simpel modell av databasen i MySQL Workbench som vi kan utgå ifrån. 
 * Diskutera inom gruppen vilka tabeller som är relevanta, vad som känns nödvändigt I en filmdatabas.
-* * Filmer
-* * Språk
-* * Produktionsbolag
-* * Trailers
-* * Bilder
-* * Karaktärer/skådespelare
-* * Regissörer
-* * Genre
-* * Persondata
-* * Kontaktinformation
+ * Filmer
+ * Språk
+ * Produktionsbolag
+ * Trailers
+ * Bilder
+ * Karaktärer/skådespelare
+ * Regissörer
+ * Genre
+ * Persondata
+ * Kontaktinformation
 
 ## Diskussion
 **Det svåra:**
