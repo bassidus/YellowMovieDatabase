@@ -43,4 +43,5 @@ Vi använder oss av GitHub när vi jobbar på egen hand och skärmdelning genom 
 * Skapa olika vyer.
 
 **Gruppsynpunkt:**
+
 Arbetsmässigt mellan oss som infinner oss i gruppsamtalen fungerar det bra. Vi har ett bra samarbete och löser problem tillsammans. Vi kan samtala om vad var och en tycker och kommer gemensamt fram till lösningar. 
