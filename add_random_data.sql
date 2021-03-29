@@ -1,3 +1,5 @@
+use ymdb;
+
 drop table if exists Movies_has_Languages;
 drop table if exists Movies_has_Genre;
 drop table if exists Movies_has_Characters;
