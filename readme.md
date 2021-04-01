@@ -6,6 +6,12 @@
 * Pontus Brandt **(pontusbrandt)**
 * Simon Kvarlin **(SimonKva)**
 
+## Instruktioner för att testa databasen
+* Öppna modellfilen ```ymdb_model.mwb``` i MySQL Workbench
+* Välj Forward Engineer
+* Nu ska alla tabeller, vyer och stored procedures finnas med
+* Öppna och kör ```add_random_data.sql``` för att populera databasen med lite random data
+
 ## Introduktion
 Kund AB önskar en databas över sina filmer med lite speciella önskemål: 
 * Lista alla filmer i databasen.
